@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/gradient_background"
+    android:layout_height="match_parent"
+    android:padding="36dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_marginTop="24dp"
+        android:textSize="24sp"
+        android:fontFamily="sans-serif"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/activity_summary_heading" />
+
+    <TextView
+        android:id="@+id/text_view_user_full_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="48dp"
+        android:textSize="16sp"
+        tools:text="Mr Fullname User" />
+
+    <TextView
+        android:id="@+id/text_view_email_address"
+        android:layout_width="match_parent"
+        android:textSize="16sp"
+        android:layout_marginTop="24dp"
+        android:textColor="@color/blue_accent"
+        android:layout_height="wrap_content"
+        tools:text="email@address.com" />
+
+    <TextView
+        android:id="@+id/text_view_phone"
+        android:layout_width="match_parent"
+        android:textSize="16sp"
+        android:layout_marginTop="24dp"
+        android:textColor="@color/blue_accent"
+        android:layout_height="wrap_content"
+        android:text="09675555555" />
+
+</LinearLayout>
+

@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.RegistrationFromApp" parent="Theme.MaterialComponents.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#42A5F5</item>
+        <item name="colorPrimaryVariant">@color/blue_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+
+
+
+
+    <!-- Customize your theme here -->
+
+    <style name="Theme.RegistrationFromApp" parent="Base.Theme.RegistrationFromApp" />
+</resources>
