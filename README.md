@@ -35,4 +35,7 @@ It can serve as:
 ---
 
 ## 🎥 Demo Video  
-[Watch the demo](./RegistrationFormAppDemo.mp4)  
+
+Uploading registrationformappdemo_HgCTV27Q.mp4…
+
+
