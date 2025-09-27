@@ -36,6 +36,12 @@ It can serve as:
 
 ## 🎥 Demo Video  
 
-[Watch the demo of Registration Form App](https://github.com/user-attachments/assets/ca7c0ba3-5d99-4c39-97ee-51490b74c3db)
+🔗 [Watch the Demo Here](https://github.com/user-attachments/assets/4ba4ae0e-8e9f-481c-9d3c-5be85cbe33af)
+
+---
+
+✨ This project showcases the implementation of a **Registration Form** in a simple, user-friendly Android app.
+
+
 
 
