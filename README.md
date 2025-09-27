@@ -36,6 +36,6 @@ It can serve as:
 
 ## 🎥 Demo Video  
 
-https://github.com/user-attachments/assets/ca7c0ba3-5d99-4c39-97ee-51490b74c3db
+[Watch the demo of Registration Form App](https://github.com/user-attachments/assets/ca7c0ba3-5d99-4c39-97ee-51490b74c3db)
 
 
